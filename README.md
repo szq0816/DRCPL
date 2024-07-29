@@ -16,6 +16,7 @@
 
 ## Datasets
 Please download SBIR datasets from the official websites or Google Drive and `tar -zxvf dataset` to the corresponding directory in `./datasets`. We provide train and test splits for different datasets.
+
 Note: Sketchy, TU-Berlin, and QuickDraw are all public datasets.
 
 ### Sketchy
