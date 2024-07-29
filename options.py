@@ -44,7 +44,7 @@ class Option:
 
         # OTHER
         parser.add_argument('--SEED', type=int, default=2021)
-        parser.add_argument('--PREC', type=str, default='fp32', choices=['fp32', 'fp16', 'amp'])
+        parser.add_argument('--PREC', type=str, default='fp32', choices=['fp16', 'fp32', 'amp'])
         parser.add_argument('--MARGIN', type=float, default=0.3)
         parser.add_argument('--TEMPERATURE', type=float, default=0.07)
         parser.add_argument('--TEST', default=False, action='store_true', help='train/test scale')
