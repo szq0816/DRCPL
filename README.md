@@ -1,5 +1,4 @@
-# DRCPL
-Deep Residual Coupled Prompt Learning for Zero-Shot Sketch-Based Image Retrieval
+# Deep Residual Coupled Prompt Learning for Zero-Shot Sketch-Based Image Retrieval
 
 ![Fig.1](DRCPL-Model.png)
 
