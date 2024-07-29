@@ -17,7 +17,7 @@ Deep Residual Coupled Prompt Learning for Zero-Shot Sketch-Based Image Retrieval
 
 ## ============== Datasets ==============
 
-### Sketchy and TU-Berlin
+### Sketchy, TU-Berlin and QuickDraw
 Please go to the [ZSE-SBIR](https://github.com/buptLinfy/ZSE-SBIR)
 
 ## ============== Training ==============
